@@ -1,0 +1,6 @@
+{
+  "name": "EraseMe",
+  "description": "Ferramenta de proteção de privacidade e remoção de conteúdo não consensual. Localiza exposições indevidas, preserva provas, gera denúncias e monitora o status de cada solicitação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
